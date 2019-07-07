@@ -1,0 +1,12 @@
+{
+  "name": "RGBL",
+  "keywords": "RGBL",
+  "description": "Program the RGB Led more easily.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Minediversion/RGBL_Library"
+  },
+  "frameworks": "arduino",
+  "platforms":["atmelavr"]
+}
