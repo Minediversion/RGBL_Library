@@ -15,10 +15,6 @@
 // Constructor /////////////////////////////////////////////////////////////////
 // Function that handles the creation and setup of instances
 
-int Rvalue;
-int Gvalue;
-int Bvalue;
-
 RGBL::RGBL(int Blue, int Green, int Red)
 {
   // initialize this instance's variables

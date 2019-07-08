@@ -6,6 +6,7 @@
 // ensure this library description is only included once
 #ifndef RGBL_h
 #define RGBL_h
+#include "Arduino.h"
 
 // include types & constants of Wiring core API
 
@@ -18,6 +19,10 @@ class RGBL
     void Color(int R, int G, int B);
 
   // library-accessible "private" interface
+private:
+	int Rvalue;
+	int Gvalue;
+	int Bvalue;
 };
 
 #endif

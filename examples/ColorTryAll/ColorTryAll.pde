@@ -1,8 +1,11 @@
-/* ----------------------------------------
- * This Library was made by Minediversion.
- * You can use the RGB Led more easily.
- * Feel free to share this library.
- * ----------------------------------------
+/* --------------------------------------------
+ * - This Library was made by Minediversion.
+ * 
+ * - You can use the RGB Led more easily.
+ * 
+ * - This is a code that changes the color
+ * of the RGB Led, between Red, Green and Blue
+ * --------------------------------------------
  */
 #include <RGBL.h> //We include the RGB_Led library.
 
